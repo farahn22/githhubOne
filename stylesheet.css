@@ -18,14 +18,23 @@
 }
 #pic2{
   display:block;
-  margin-left:350px;
+  margin-left:450px;
 }
 #link3{
   font-size: 30;
 }
 #p1{
-  font-size: 20;
+  font-size: 40;
+color: purple;
 }
 #p2{
-font-size: 30;
+font-size: 50;
+color: purple
+}
+.jumbotron {
+  background-color: lightblue;
+}
+#h2{
+  color: purple;
+  font-size: 30;
 }
