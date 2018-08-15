@@ -1,5 +1,5 @@
 #title{
-  color:purple;
+  color:lightgreen;
 }
 
 #pic{
@@ -25,17 +25,17 @@
 }
 #p1{
   font-size: 40;
-color: purple;
+color: lightgreen;
 }
 #p2{
 font-size: 50;
-color: purple
+color: lightgreen;
 }
 .jumbotron {
-  background-color: lightblue;
+  background-color: gray;
 }
 #h2{
-  color: purple;
+  color: lightgreen;
   font-size: 30;
 }
 
